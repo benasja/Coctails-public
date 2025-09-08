@@ -8,8 +8,8 @@ Taste-driven cocktail suggestions powered by AI. Build your pantry, pick how you
 
 ## Preview
 
-![App Screenshot 1](assets/Screenshot%202025-09-08%20at%2019.59.50.png)
-![App Screenshot 2](assets/Screenshot%202025-09-08%20at%2020.00.24.png)
+![App screenshot – home](assets/screenshot-1.png)
+![App screenshot – grimoire/results](assets/screenshot-2.png)
 
 ---
 
