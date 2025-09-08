@@ -33,13 +33,6 @@ Taste-driven cocktail suggestions powered by AI. Build your pantry, pick how you
 
 ---
 
-## Quick Start (Docs Repo Only)
-
-This repository is documentation-only:
-- Add screenshots under `assets/screenshots/`
-- Edit this README to reference your images
-- Enable GitHub Pages (Settings → Pages → Deploy from main)
-
 App source lives elsewhere; try it live here:
 - [Open the app](https://cocktailsguide-c1907.web.app)
 
@@ -58,16 +51,6 @@ App source lives elsewhere; try it live here:
   - Always returns two recipes
   - Uses a sensible subset of your pantry, not all at once
   - We parse JSON from the model response (no markdown)
-
----
-
-## Screenshots Map
-
-- assets/screenshots/hero.png – Landing/dashboard header
-- assets/screenshots/grimoire.png – Taste chips + two recipe cards with ABV/Sweetness badges
-- assets/screenshots/favorites-recent.png – Favorites grid + Recently Made list
-
-Tip: use 1440×900 for wides, and crop 2:1 for social previews.
 
 ---
 
