@@ -12,6 +12,9 @@ Taste-driven cocktail suggestions powered by AI. Build your pantry, pick how you
 ![Grimoire – Taste chips + results](assets/screenshots/grimoire.png)
 ![Favorites & Recently Made](assets/screenshots/favorites-recent.png)
 
+![App Screenshot 1](assets/Screenshot%202025-09-08%20at%2019.59.50.png)
+![App Screenshot 2](assets/Screenshot%202025-09-08%20at%2020.00.24.png)
+
 ---
 
 ## Features
